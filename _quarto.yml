@@ -7,7 +7,7 @@ project:
     - "by-statsds-topic.qmd"
 
 website:
-  title: "SCORE Module Repository"
+  title: "SCORE Module Repository Testing Site"
   page-footer: "Maintained by No one"
   cookie-consent: true
   navbar:
