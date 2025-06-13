@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/by-statsds-topic.html",
+    "items": [
+      "/marathons/boston-marathon-finish_times-2023/index.html",
+      "/soccer/expected_goals/index.html",
+      "/robotics/FIRST_Robotics_Competition/index.html",
+      "/football/nfl-elo-ratings/index.html",
+      "/triathlons/ironman-triathlete-performance/index.html",
+      "/triathlons/ironman-lakeplacid-mlr/index.html",
+      "/lacrosse/college_lacrosse_faceoffs/index.html",
+      "/lacrosse/lacrosse_pll_vs_nll/index.html",
+      "/esports/league-of-legends-buffing-nerfing/index.html",
+      "/tennis/Teaching_ANOVA_Through_Aces/index.html",
+      "/baseball/mlb_injuries/index.html",
+      "/mixed_martial_arts/mma_interrater_reliability/index.html",
+      "/marathons/marathon-records/index.html",
+      "/motor_sports/nascar_regression_transformation/index.html",
+      "/rowing/olympic_rowing_datawrangling/index.html",
+      "/rowing/olympic_rowing_introstat/index.html",
+      "/hockey/nhl-shooting-percentage-ventura/index.html",
+      "/baseball/stolen-bases/index.html",
+      "/baseball/unbreakable-records/index.html"
+    ]
+  }
+]

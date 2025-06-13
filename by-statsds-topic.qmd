@@ -1,7 +1,0 @@
----
-title: Modules By Topic
-listing:
-  categories: true
-  contents:
-    - "*/*.qmd"
----
