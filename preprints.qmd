@@ -1,0 +1,13 @@
+---
+title: "Preprint Access"
+---
+
+This page links to preprint repositories maintained by members of the [SCORE Network](https://scorenetwork.org/index.html). These preprint repositories are created and maintained by faculty and students from the respective institutions. Please note that these materials have not yet completed the required pedagogical and industry peer reviews to become a [published module on the SCORE Network](https://modules.scorenetwork.org/). However, instructors are still welcome to use these materials if they are so inclined. The following are actively maintained preprint repositories:
+
++ [Carnegie Mellon University](https://ryurko.github.io/cmu_score_preprints/)
+
++ [St. Lawrence University](https://iramler.github.io/slu_score_preprints/)
+
++ [Baylor University + Azusa Pacific University](https://kgfitzgerald.github.io/baylor_apu_score/)
+
++ [West Point](https://nick3703.github.io/WP_SCORE/)

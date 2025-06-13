@@ -1,0 +1,19 @@
+{
+  "hash": "5dbe77cc56be3bea1098a01abd7ca465",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Linear Regression with Categorical Variables and ANOVA: Ace Rates in Tennis by Surface\"\nformat: html\ndate: January 22, 2025\ndescription: Using tennis to teach ANOVA and linear regression with categorical variables\neditor: \n  canonical: true\ncategories:\n  - ANOVA\n  - Tennis\noutput: \n  learnr::tutorial:\n    progressive: TRUE\n---\n\n\n\n\n\n\n## Welcome\n\nAn accompanying worksheet for instructors is available [here](https://github.com/nick3703/WP_SCORE/raw/main/external_submissions/Tennis/Tennis_Ace_Rate_Worksheet_Version_forInstructors.docx)\n\nA worksheet for students to follow is available  [here](https://github.com/nick3703/WP_SCORE/raw/main/external_submissions/Tennis/Tennis_Ace_Rate_Worksheet_Version_forStudents.docx) \n\nThis module is interactive and can be accessed [here]( https://github.com/zbinney/SCORE_Tennis_Linear_Regression_ANOVA)\n\n\n### Authors\n\nZachary O. Binney, PhD MPH and Heyi Yang\n\nOxford College of Emory University",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"../../site_libs/jquery-3.6.0/jquery-3.6.0.min.js\"></script>\n<link href=\"../../site_libs/font-awesome-6.4.2/css/all.min.css\" rel=\"stylesheet\" />\n<link href=\"../../site_libs/font-awesome-6.4.2/css/v4-shims.min.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/bootbox-5.5.2/bootbox.min.js\"></script>\n<script src=\"../../site_libs/idb-keyvalue-3.2.0/idb-keyval-iife-compat.min.js\"></script>\n<link href=\"../../site_libs/tutorial-0.11.5/tutorial.css\" rel=\"stylesheet\" />\n<script src=\"../../site_libs/tutorial-0.11.5/tutorial.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
